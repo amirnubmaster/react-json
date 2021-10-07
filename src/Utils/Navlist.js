@@ -1,0 +1,32 @@
+export const Navlist = [
+    {
+        id:1,
+        title:'Posts',
+        route:'posts'
+    },
+    {
+        id:2,
+        title:'Comments',
+        route:'comments'
+    },
+    {
+        id:3,
+        title:'Albums',
+        route:'albums'
+    },
+    {
+        id:4,
+        title:'Photos',
+        route:'photos'
+    },
+    {
+        id:5,
+        title:'Todos',
+        route:'todos'
+    },
+    {
+        id:6,
+        title:'Users',
+        route:'users'
+    }
+]
